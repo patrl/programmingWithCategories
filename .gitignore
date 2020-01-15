@@ -1,2 +1,10 @@
 jupyterlab/
 .ipynb_checkpoints/
+
+shell.nix
+.env
+.out
+
+
+
+
